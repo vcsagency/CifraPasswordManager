@@ -6,4 +6,4 @@ Cryptography and
 Python (the latest relase)
 
 HOW TO START IT:
-It starts the first time on windows by opening a cmd in the folder and typing python Cipher Password Manager.py, from the second a double click
+It starts the first time on windows by opening a cmd in the folder and typing python Cifra Password Manager.py, from the second a double click
