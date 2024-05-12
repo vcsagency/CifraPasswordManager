@@ -1,8 +1,8 @@
 Hello! this password manager in made with Python 3.12.3
 
 THINGS TO INSTALL:
-Colorama
-Cryptography
+Colorama,
+Cryptography and
 Python (the latest relase)
 
 HOW TO START IT:
