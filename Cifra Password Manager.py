@@ -131,7 +131,7 @@ def main():
         elif choice == "4":
             list_services(passwords)
         elif choice == "5":
-            print(Fore.CYAN + "Grazie per l'uso di Cifra - Password Manager!")
+            print(Fore.CYAN + "Grazie per l'uso di Cifra, il tuo Password Manager!")
             break
         else:
             print(Fore.RED + Fore.YELLOW + "Scelta non valida. Si prega di rispondere con 1, 2, 3, 4 o 5.")
